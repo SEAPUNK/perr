@@ -1,0 +1,34 @@
+{
+  "name": "perr",
+  "version": "0.1.0",
+  "description": "Portable errors for Javascript",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "standard && nyc ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/SEAPUNK/perr"
+  },
+  "keywords": [
+    "error",
+    "err",
+    "json",
+    "portable"
+  ],
+  "author": "Ivan K <ivan@sq10.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SEAPUNK/perr/issues"
+  },
+  "homepage": "https://github.com/SEAPUNK/perr#readme",
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "coveralls": "^2.11.12",
+    "nyc": "^10.0.0",
+    "standard": "^8.0.0"
+  },
+  "dependencies": {
+    "guaranteed-error": "^1.0.0"
+  }
+}
