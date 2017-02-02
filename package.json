@@ -23,10 +23,10 @@
   },
   "homepage": "https://github.com/SEAPUNK/perr#readme",
   "devDependencies": {
-    "ava": "^0.17.0",
-    "coveralls": "^2.11.12",
-    "nyc": "^10.0.0",
-    "standard": "^8.0.0"
+    "ava": "^0.18.0",
+    "coveralls": "^2.11.15",
+    "nyc": "^10.1.2",
+    "standard": "^8.6.0"
   },
   "dependencies": {
     "guaranteed-error": "^1.0.0"
