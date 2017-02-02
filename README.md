@@ -1,6 +1,8 @@
 perr
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SEAPUNK/perr.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/perr.svg?style=flat-square)](https://npmjs.com/package/perr)
 [![javascript standard style](https://img.shields.io/badge/code%20style-standard-blue.svg?style=flat-square)](http://standardjs.com/)
 [![travis build](https://img.shields.io/travis/SEAPUNK/perr/master.svg?style=flat-square)](https://travis-ci.org/SEAPUNK/perr)
